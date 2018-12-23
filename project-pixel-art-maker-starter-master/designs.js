@@ -26,6 +26,6 @@ picker.onsubmit = function makeGrid(event) {
     		cell.addEventListener("click",function(){
   			    this.bgColor = colorPicker.value;
   			});
-    	}
-    }
-  };
+  	}
+   }
+ };
